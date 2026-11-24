@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Notepad | Note-Taking Method Picker &amp; Spaced Revision Planner</title>
+<meta name="description" content="Notepad is a free study guide with a note-taking method picker, a spaced revision planner, and guides to Cornell notes and spaced repetition.">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="canonical" href="https://notepad.com/">
+<meta property="og:type" content="website"><meta property="og:site_name" content="Notepad">
+<meta property="og:title" content="Notepad | Note-Taking Method Picker &amp; Spaced Revision Planner"><meta property="og:description" content="Notepad is a free study guide with a note-taking method picker, a spaced revision planner, and guides to Cornell notes and spaced repetition.">
+<meta property="og:url" content="https://notepad.com/"><meta property="og:image" content="https://images.unsplash.com/photo-1772396867158-e26d9e6256b2?auto=format&fit=crop&w=1200&q=75">
+<meta name="twitter:card" content="summary_large_image"><meta name="theme-color" content="#1F3A5F">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect x='6' y='3' width='28' height='34' rx='3' fill='%23FFFDF6' stroke='%231F3A5F' stroke-width='2'/%3E%3Cpath d='M6 12h28M6 19h28M6 26h28' stroke='%239EC1E8' stroke-width='1.6'/%3E%3Cpath d='M13 3v34' stroke='%23E0533D' stroke-width='1.8'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="preconnect" href="https://images.unsplash.com">
+<link href="https://fonts.googleapis.com/css2?family=Schoolbell&family=Scope+One&family=Courier+Prime:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+<script>document.documentElement.classList.add("js")</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "name": "Notepad", "url": "https://notepad.com", "email": "hello@notepad.com", "telephone": "+1-888-777-5845", "address": {"@type": "PostalAddress", "streetAddress": "181 Mercer Street", "addressLocality": "New York", "addressRegion": "NY", "postalCode": "10012", "addressCountry": "US"}}, {"@type": "WebSite", "name": "Notepad", "url": "https://notepad.com"}]}</script>
+</head>
+<body class="">
+<a class="skip" href="#main">Skip to content</a><div id="prog" aria-hidden="true"></div>
+<header class="np-hd"><div class="np-w np-hd-in"><a class="logo" href="./" aria-label="Notepad home"><svg viewBox="0 0 40 40" aria-hidden="true"><rect x="6" y="3" width="28" height="34" rx="3" fill="#FFFDF6" stroke="#1F3A5F" stroke-width="2"/><path d="M6 12h28M6 19h28M6 26h28" stroke="#9EC1E8" stroke-width="1.6"/><path d="M13 3v34" stroke="#E0533D" stroke-width="1.8"/><circle cx="6" cy="9" r="2" fill="#1F3A5F"/><circle cx="6" cy="20" r="2" fill="#1F3A5F"/><circle cx="6" cy="31" r="2" fill="#1F3A5F"/></svg><span>Notepad</span></a><nav id="nav" aria-label="Main navigation"><ul><li><a href="./" aria-current="page">Desk</a></li><li><a href="cornell-note-taking-guide.html">Cornell notes</a></li><li><a href="spaced-repetition-revision-guide.html">Spaced revision</a></li><li><a href="about.html">About</a></li><li><a href="contact.html">Contact</a></li></ul></nav><p class="np-date" aria-hidden="true">p. <b>01</b></p><button class="burger" aria-label="Open menu" aria-expanded="false" aria-controls="nav"><i></i><i></i><i></i></button></div></header>
+<main id="main">
+
+<section class="np-hero"><div class="np-w np-hero-g"><div class="np-paper np-hero-p"><p class="np-mono">// study notes, made simple</p><h1>Take notes<br>you&rsquo;ll <span class="np-circ">actually</span><br>use later.</h1><p class="np-hand np-hero-h">&larr; yes, really</p><p class="np-lead">Notepad is a free study guide about writing better notes and remembering what you learn. Find the note-taking method that fits your class, then plan revision that sticks.</p>
+<div class="np-hero-a"><a class="np-btn" href="#method">Pick a method</a><a class="np-btn np-btn-o" href="#plan">Plan my revision</a></div></div>
+<div class="np-hero-v"><figure class="np-pol np-pol1"><img src="https://images.unsplash.com/photo-1772396867158-e26d9e6256b2?auto=format&fit=crop&w=440&h=360&q=75" alt="an open notebook and pen on a desk" width="440" height="360" fetchpriority="high"><figcaption>my desk, monday</figcaption></figure><figure class="np-pol np-pol2"><img src="https://images.unsplash.com/photo-1774354669545-6265156237d4?auto=format&fit=crop&w=300&h=300&q=75" alt="a person writing in a notebook beside a cup of coffee" width="300" height="300" fetchpriority="high"><figcaption>coffee + chapter 4</figcaption></figure><span class="np-tape np-tape1"></span><span class="np-tape np-tape2"></span><p class="np-note np-note-h">Review after<br><b>1 &middot; 3 &middot; 7</b> days!</p></div></div></section>
+
+<section class="np-s np-mt" id="method"><div class="np-w"><div class="np-mt-h"><p class="np-mono">// tool 01</p><h2 class="rv">Note-taking method picker</h2><p class="np-p">Answer three quick questions about your class. We suggest the method that fits, with a template you can copy onto your own page.</p></div>
+<div class="np-mt-g"><div class="np-q"><fieldset><legend>1. What is the class like?</legend><div class="np-opt" data-q="a"><button type="button" data-v="0" class="on">Lecture</button><button type="button" data-v="1">Reading</button><button type="button" data-v="2">Discussion</button></div></fieldset>
+<fieldset><legend>2. How is the material organised?</legend><div class="np-opt" data-q="b"><button type="button" data-v="0" class="on">Step by step</button><button type="button" data-v="1">Lots of links</button><button type="button" data-v="2">Comparisons</button></div></fieldset>
+<fieldset><legend>3. How will you study it?</legend><div class="np-opt" data-q="c"><button type="button" data-v="0" class="on">Self-testing</button><button type="button" data-v="1">Big picture</button><button type="button" data-v="2">Quick facts</button></div></fieldset><figure class="np-pol np-q-i"><img src="https://images.unsplash.com/photo-1598620617137-2ab990aadd37?auto=format&fit=crop&w=420&h=260&q=75" alt="an open notebook on a wooden table" width="420" height="260" loading="lazy"><figcaption>a fresh page</figcaption></figure></div>
+<div class="np-paper np-out" aria-live="polite"><p class="np-mono">best fit &rarr;</p><h3 id="mt-t">Cornell</h3><p id="mt-d" class="np-p"></p><div id="mt-tp" class="np-tpl"></div></div></div>
+<ul class="np-sns stg"><li class="np-sn np-y rv"><b>Cornell</b>Split the page into cues, notes and a summary.</li><li class="np-sn np-b rv"><b>Outline</b>Headings and indented points in a clear order.</li><li class="np-sn np-pk rv"><b>Mind map</b>One idea in the middle, branches outward.</li><li class="np-sn np-g rv"><b>Charting</b>A table that compares several things side by side.</li></ul><figure class="np-wide rv"><img src="https://images.unsplash.com/photo-1547567667-1aa64e6f58dc?auto=format&fit=crop&w=1200&h=340&q=75" alt="a hand flipping the page of a book" width="1200" height="340" loading="lazy"></figure></div></section>
+
+<section class="np-s np-pl" id="plan"><div class="np-w np-pl-g"><div><p class="np-mono">// tool 02</p><h2 class="rv">Spaced revision planner</h2><p class="np-p">Reviewing a topic at growing intervals is one of the best-studied ways to remember it. Enter when you learn a topic and when your exam is, and we lay out review dates on a calendar.</p>
+<div class="np-fd"><label for="pl-l">First learned</label><input type="date" id="pl-l"></div><div class="np-fd"><label for="pl-e">Exam day</label><input type="date" id="pl-e"></div><div class="np-fd"><label for="pl-n">Topic (optional)</label><input type="text" id="pl-n" placeholder="e.g. Photosynthesis" maxlength="40"></div>
+<p class="np-pl-s" id="pl-s" aria-live="polite"></p><figure class="np-pl-i"><img src="https://images.unsplash.com/photo-1768055105012-4c53791b2877?auto=format&fit=crop&w=540&h=280&q=75" alt="a hand checking off items on a to-do list" width="540" height="280" loading="lazy"></figure></div>
+<div class="np-paper np-cal"><div class="np-cal-h"><button type="button" id="pl-pv" aria-label="Previous month">&lsaquo;</button><b id="pl-m"></b><button type="button" id="pl-nx" aria-label="Next month">&rsaquo;</button></div><div class="np-cal-d" aria-hidden="true"><span>Mo</span><span>Tu</span><span>We</span><span>Th</span><span>Fr</span><span>Sa</span><span>Su</span></div><div class="np-cal-g" id="pl-g"></div><ol class="np-pl-l" id="pl-list"></ol></div></div></section>
+
+<section class="np-s np-wall"><div class="np-w np-wall-g"><figure class="np-wall-i rv"><img src="https://images.unsplash.com/photo-1641355527446-232d7f1f2c10?auto=format&fit=crop&w=560&h=640&q=75" alt="a wall covered in sticky notes" width="560" height="640" loading="lazy"></figure><div><p class="np-mono">// from the board</p><h2 class="rv">Small habits, pinned up</h2><ul class="np-chk"><li>Date and title every page.</li><li>Leave space to add later.</li><li>Write questions, not just answers.</li><li>Summarise in one sentence before you close the book.</li></ul><figure class="np-wall-s rv"><img src="https://images.unsplash.com/photo-1769794370961-3cff43b1034e?auto=format&fit=crop&w=520&h=240&q=75" alt="handwritten sticky notes on a board" width="520" height="240" loading="lazy"></figure></div></div></section>
+
+<section class="np-gd"><div class="np-w"><figure class="np-strip"><img src="https://images.unsplash.com/photo-1586764635350-4f88a6a30a52?auto=format&fit=crop&w=1200&h=200&q=75" alt="coloured pencils lined up in a case" width="1200" height="200" loading="lazy"></figure><div class="np-gd-g"><a class="np-gc rv" href="cornell-note-taking-guide.html"><span class="np-mono">guide 01</span><b>The Cornell Note-Taking Method</b><p>Cues, notes and a summary: the page layout that turns notes into a study tool.</p><em>read &rarr;</em></a><a class="np-gc np-gc2 rv" href="spaced-repetition-revision-guide.html"><span class="np-mono">guide 02</span><b>Spaced Repetition for Revision</b><p>Why reviewing at growing intervals beats cramming, and how to plan it.</p><em>read &rarr;</em></a></div></div></section>
+
+</main>
+<footer class="np-ft"><div class="np-w"><div class="np-ft-g"><div><a class="logo" href="./"><svg viewBox="0 0 40 40" aria-hidden="true"><rect x="6" y="3" width="28" height="34" rx="3" fill="#FFFDF6" stroke="#1F3A5F" stroke-width="2"/><path d="M6 12h28M6 19h28M6 26h28" stroke="#9EC1E8" stroke-width="1.6"/><path d="M13 3v34" stroke="#E0533D" stroke-width="1.8"/><circle cx="6" cy="9" r="2" fill="#1F3A5F"/><circle cx="6" cy="20" r="2" fill="#1F3A5F"/><circle cx="6" cy="31" r="2" fill="#1F3A5F"/></svg><span>Notepad</span></a><p>A free study guide about taking better notes and remembering what you learn, with two simple tools for students.</p><p class="np-hand">write it down, then look back</p></div><div><h4>// guides</h4><a href="cornell-note-taking-guide.html">The Cornell Method</a><a href="spaced-repetition-revision-guide.html">Spaced Repetition</a><a href="./#method">Method picker</a><a href="./#plan">Revision planner</a></div><div><h4>// notepad</h4><a href="about.html">About</a><a href="contact.html">Contact</a><a href="editorial-policy.html">Editorial Policy</a><a href="disclaimer.html">Disclaimer</a></div><div><h4>// legal</h4><a href="privacy-policy.html">Privacy Policy</a><a href="terms-and-conditions.html">Terms &amp; Conditions</a><a href="cookie-policy.html">Cookie Policy</a></div><div><h4>// reach us</h4><p>181 Mercer Street, New York, NY 10012, United States</p><a href="tel:+18887775845">+1-888-777-5845</a><a href="mailto:hello@notepad.com">hello@notepad.com</a></div></div><p class="np-ft-c">&copy; <span id="year">2026</span> Notepad &middot; Study notes, made simple</p></div></footer>
+<div class="cookie" id="cookie" role="dialog" aria-label="Cookie notice"><p>We use essential storage and, with your consent, cookies for our live chat and any ads shown on the site. <a href="cookie-policy.html">Cookie Policy</a></p><button class="y" data-cookie="accepted">Accept</button><button data-cookie="declined">Essential only</button></div>
+<script src="assets/js/main.js" defer></script>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/626be649b0d10b6f3e6ff291/1g1qnn49c';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+</body>
+</html>
